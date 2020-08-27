@@ -28,7 +28,7 @@ During my time as a full-stack engineer at Fruba Tea. My main responsibility was
 
 ### Software Engineer - HTC (Nov 2014–Jul 2016)
 
-I worked as a software engineer in the tools & productivity team of HTC, and I focused on using core Java, SQLite, MySQL to build log parsing system to identify product failure root causes and issue owners in time, and further to reduce resource usage caused by multi-identification of issue owners across different teams
+I worked as a software engineer in the tools & productivity team of HTC. At that time, I focused on using core Java, SQLite, MySQL to build log parsing system to identify product failure root causes and issue owners in time, and further to reduce resource usage caused by multi-identification of issue owners across different teams
 
  ---
  
