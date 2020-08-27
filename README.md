@@ -7,6 +7,7 @@
 </p>
 
 Hey there 👋,
+
 I’m Ting-Kai. I’m a full-stack engineer working at Fruba Tea, focusing on front-end development using Javascript and React, and back-end development using Java, Go, and Node.js. I’m from Taiwan and now live in New York. Passionate about exploring the world and learning new technological skills.
 
 <!--
