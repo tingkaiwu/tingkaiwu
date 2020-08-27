@@ -23,7 +23,7 @@ During my time as a full-stack engineer at Fruba Tea. My main responsibility was
  ---
  
  <p>
-  <img width="400" align='right' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/htc2.jpg?raw=true">
+  <img width="350" align='right' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/htc2.jpg?raw=true">
 </p>
 
 ### Software Engineer - HTC (Nov 2014–Jul 2016)
