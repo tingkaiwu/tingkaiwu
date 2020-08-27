@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/tingkai-wu/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/linkedin.png" /></a>
   <a href="https://tingkaiwu.com/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/web.png" /></a>
   <a href="https://www.instagram.com/tingkai.wu/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/instagram.jpg" /></a>&nbsp
-  <a href="mailto:tingkaiwuu@gmail.com"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/gmail4.png" /></a>
+  <a href="mailto:tingkaiwuu@gmail.com"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/gmail5.png" /></a>
 </p>
 
 Hey there 👋,
@@ -13,7 +13,7 @@ I am Ting-Kai, I am a full-stack engineer working at Fruba Tea, focusing on fron
 ## Experience
  
 <p>
-  <img width="120" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/fruba_logo.png?raw=true">
+  <img width="250" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/fruba2.png?raw=true">
 </p>
  
 ### Boy Scout Rule
