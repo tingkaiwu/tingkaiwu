@@ -1,14 +1,13 @@
 [![My Website](https://github.com/tingkaiwu/tingkaiwu/blob/master/cover_v2.png)](https://tingkaiwu.com/)
-
-[![LinkedIn](https://github.com/tingkaiwu/tingkaiwu/blob/master/linkedin.png)](https://www.linkedin.com/in/tingkai-wu/)[![My Website](https://github.com/tingkaiwu/tingkaiwu/blob/master/web.png)](https://tingkaiwu.com/)[![Instagram](https://github.com/tingkaiwu/tingkaiwu/blob/master/instagram.jpg)](https://www.instagram.com/tingkai.wu/) [![Email](https://github.com/tingkaiwu/tingkaiwu/blob/master/email.png)](mailto:tingkaiwuu@gmail.com)
-
 <p align=center>
   <a href="https://www.linkedin.com/in/tingkai-wu/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/linkedin.png" /></a>
   <a href="https://tingkaiwu.com/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/web.png" /></a>
-  <a href="https://www.instagram.com/tingkai.wu/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/instagram.jpg" /></a>
+  <a href="https://www.instagram.com/tingkai.wu/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/instagram.jpg" /></a>&nbsp
   <a href="mailto:tingkaiwuu@gmail.com"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/email.png" /></a>
 </p>
-### Hey there 👋
+
+Hey there 👋,
+I’m Ting-Kai. I’m a full-stack engineer working at Fruba Tea, focusing on front-end development using Javascript and React, and back-end development using Java, Go, and Node.js. I’m from Taiwan and now live in New York. Passionate about exploring the world and learning new technological skills.
 
 <!--
 **tingkaiwu/tingkaiwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
