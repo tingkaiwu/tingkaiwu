@@ -16,12 +16,22 @@ I am Ting-Kai, I am a full-stack engineer working at Fruba Tea, focusing on fron
   <img width="220" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/fruba2.png?raw=true">
 </p>
  
-### Full Stack Engineer
+### Full Stack Engineer - Fruba Tea
 
-During my time as a full-stack engineer at Fruba Tea. My main responsibility is building core components using React, Redux, Hooks, Material UI for a meal group buying platform, which allows customers to order meals from several restaurants at the same time and delivers meals all together at fixed time and specific location
+During my time as a full-stack engineer at Fruba Tea. My main responsibility is building web applications using JavaScript, React, Material UI for a meal group buying platform, which allows customers to order meals from several restaurants at the same time and delivers meals all together at fixed time and specific location
 
  ---
+ 
+ <p>
+  <img width="400" align='right' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/htc.jpg?raw=true">
+</p>
 
+### Software Engineer - HTC
+
+I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+
+ ---
+ 
 <!--
 **tingkaiwu/tingkaiwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
