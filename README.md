@@ -1,7 +1,7 @@
 [![My Website](https://github.com/tingkaiwu/tingkaiwu/blob/master/cover_v2.png)](https://tingkaiwu.com/)
-[![LinkedIn](https://github.com/tingkaiwu/tingkaiwu/blob/master/linkedin.png)](https://www.linkedin.com/in/tingkai-wu/)[![My Website](https://github.com/tingkaiwu/tingkaiwu/blob/master/web.png)](https://tingkaiwu.com/)[![Instagram](https://github.com/tingkaiwu/tingkaiwu/blob/master/instagram.jpg)](https://www.instagram.com/tingkai.wu/)[![Email](https://github.com/tingkaiwu/tingkaiwu/blob/master/email.png)](tingkaiwuu@gmail.com)
+[![LinkedIn](https://github.com/tingkaiwu/tingkaiwu/blob/master/linkedin.png)](https://www.linkedin.com/in/tingkai-wu/)[![My Website](https://github.com/tingkaiwu/tingkaiwu/blob/master/web.png)](https://tingkaiwu.com/)[![Instagram](https://github.com/tingkaiwu/tingkaiwu/blob/master/instagram.jpg)](https://www.instagram.com/tingkai.wu/) [![Email](https://github.com/tingkaiwu/tingkaiwu/blob/master/email.png)](tingkaiwuu@gmail.com)
 
-<center class="half"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/linkedin.png" /><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/web.png" /><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/instagram.jpg" /></center>
+
 ### Hi there 👋
 
 <!--
