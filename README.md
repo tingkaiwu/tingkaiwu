@@ -1,4 +1,4 @@
-[![Tingkai's website](https://imgbox.com/QhuviGtB)](https://tingkaiwu.com/)
+![](https://github.com/tingkaiwu/tingkaiwu/blob/master/cover.png)
 ### Hi there 👋
 
 <!--
