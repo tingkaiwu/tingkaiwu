@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/tingkai-wu/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/linkedin.png" /></a>
   <a href="https://tingkaiwu.com/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/web.png" /></a>
   <a href="https://www.instagram.com/tingkai.wu/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/instagram.jpg" /></a>&nbsp
-  <a href="mailto:tingkaiwuu@gmail.com"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/gmail.png" /></a>
+  <a href="mailto:tingkaiwuu@gmail.com"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/gmail2.png" /></a>
 </p>
 
 Hey there 👋,
