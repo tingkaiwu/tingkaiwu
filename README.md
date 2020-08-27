@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/tingkai-wu/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/linkedin.png" /></a>
   <a href="https://tingkaiwu.com/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/web.png" /></a>
   <a href="https://www.instagram.com/tingkai.wu/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/instagram.jpg" /></a>&nbsp
-  <a href="mailto:tingkaiwuu@gmail.com"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/gmail2.png" /></a>
+  <a href="mailto:tingkaiwuu@gmail.com"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/gmail4.png" /></a>
 </p>
 
 Hey there 👋,
@@ -11,6 +11,16 @@ Hey there 👋,
 I am Ting-Kai, I am a full-stack engineer working at Fruba Tea, focusing on front-end development using Javascript and React, back-end development using Java, Go, Node.js. I am from Taiwan, now living in New York, I love the diversity of this city and the artistic creation everywhere. Passionate about exploring the world and learning new technological skills
 
 ## Experience
+ 
+<p>
+  <img width="120" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/fruba_logo.png?raw=true">
+</p>
+ 
+### Boy Scout Rule
+
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+
+ ---
 
 <!--
 **tingkaiwu/tingkaiwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
