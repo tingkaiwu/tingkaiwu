@@ -10,7 +10,7 @@ Hey there 👋,
 
 I am Ting-Kai, I am a full-stack engineer working at Fruba Tea, focusing on front-end development using Javascript and React, back-end development using Java, Go, Node.js. I am from Taiwan, now living in New York, I love the diversity of this city and the artistic creation everywhere. Passionate about exploring the world and learning new technological skills
 
-## EXPERIENCE
+## Experience
  
 <p>
   <img width="220" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/fruba2.png?raw=true">
@@ -30,7 +30,7 @@ During my time as a full-stack engineer at Fruba Tea. My main responsibility was
 
 I worked as a software engineer in the tools & productivity team of HTC. At that time, I focused on using core Java, SQLite, MySQL to build log parsing system to identify product failure root causes and issue owners in time, and further to reduce resource usage caused by multi-identification of issue owners across different teams
 
-## PROJECTS
+## Projects
  
 <!--
 **tingkaiwu/tingkaiwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
