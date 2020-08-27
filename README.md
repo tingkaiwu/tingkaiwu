@@ -2,7 +2,7 @@
 <p align=center>
   <a href="https://www.linkedin.com/in/tingkai-wu/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/linkedin.png" /></a>
   <a href="https://tingkaiwu.com/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/web.png" /></a>
-  <a href="https://www.instagram.com/tingkai.wu/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/instagram.jpg" /></a>&nbsp
+  <a href="https://www.instagram.com/tingkai.wu/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/instagram.jpg" /></a>&nbsp&nbsp
   <a href="mailto:tingkaiwuu@gmail.com"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/gmail5.png" /></a>
 </p>
 
@@ -16,9 +16,9 @@ I am Ting-Kai, I am a full-stack engineer working at Fruba Tea, focusing on fron
   <img width="220" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/fruba2.png?raw=true">
 </p>
  
-### Full Stack Engineer - Fruba Tea
+### Full Stack Engineer - Fruba Tea (Aug 2019–Present)
 
-During my time as a full-stack engineer at Fruba Tea. My main responsibility is building web applications using JavaScript, React, Material UI for a meal group buying platform, which allows customers to order meals from several restaurants at the same time and delivers meals all together at fixed time and specific location
+During my time as a full-stack engineer at Fruba Tea. My main responsibility was building web applications using JavaScript, React, Material UI for a meal group buying platform, which allows customers to order meals from several restaurants at the same time and delivers meals all together at fixed time and specific location
 
  ---
  
@@ -26,9 +26,9 @@ During my time as a full-stack engineer at Fruba Tea. My main responsibility is 
   <img width="400" align='right' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/htc.jpg?raw=true">
 </p>
 
-### Software Engineer - HTC
+### Software Engineer - HTC (Nov 2014–Jul 2016)
 
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+I worked as a software engineer in the tools & productivity team of HTC. At that time, I focused on using core Java, SQLite, MySQL to build log parsing system to identify product failure root causes and issue owners in time, and further to reduce resource usage caused by multi-identification of issue owners across different teams
 
  ---
  
