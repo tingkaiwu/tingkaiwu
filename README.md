@@ -1,8 +1,14 @@
 [![My Website](https://github.com/tingkaiwu/tingkaiwu/blob/master/cover_v2.png)](https://tingkaiwu.com/)
-[![LinkedIn](https://github.com/tingkaiwu/tingkaiwu/blob/master/linkedin.png)](https://www.linkedin.com/in/tingkai-wu/)[![My Website](https://github.com/tingkaiwu/tingkaiwu/blob/master/web.png)](https://tingkaiwu.com/)[![Instagram](https://github.com/tingkaiwu/tingkaiwu/blob/master/instagram.jpg)](https://www.instagram.com/tingkai.wu/) [![Email](https://github.com/tingkaiwu/tingkaiwu/blob/master/email.png)](<tingkaiwuu@gmail.com>)
 
+[![LinkedIn](https://github.com/tingkaiwu/tingkaiwu/blob/master/linkedin.png)](https://www.linkedin.com/in/tingkai-wu/)[![My Website](https://github.com/tingkaiwu/tingkaiwu/blob/master/web.png)](https://tingkaiwu.com/)[![Instagram](https://github.com/tingkaiwu/tingkaiwu/blob/master/instagram.jpg)](https://www.instagram.com/tingkai.wu/) [![Email](https://github.com/tingkaiwu/tingkaiwu/blob/master/email.png)](mailto:tingkaiwuu@gmail.com)
 
-### Hi there 👋
+<p align=center>
+  <a href="https://www.linkedin.com/in/tingkai-wu/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/linkedin.png" /></a>
+  <a href="https://tingkaiwu.com/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/web.png" /></a>
+  <a href="https://www.instagram.com/tingkai.wu/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/instagram.jpg" /></a>
+  <a href="mailto:tingkaiwuu@gmail.com"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/email.png" /></a>
+</p>
+### Hey there 👋
 
 <!--
 **tingkaiwu/tingkaiwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
