@@ -73,3 +73,9 @@ Designed a Tinder flavor Android news app based on Google Component Architectura
 ### NBA Shot Visualization
 
 Developed a dashboard to visualize NBA player’s shot data using React, D3.js and Styled-Component backed by API from stats.nba.com
+
+---
+
+FRONTEND: JavaScript, React, Material UI, Styled-Component, HTML, CSS/Sass
+BACKEND: Java, Golang, REST API, Node.js, Express, Elasticsearch, SQLite, MySQL
+CLOUD/MOBILE: Android, Firebase, AWS RDS, AWS EC2, GCE, Heroku, GitHub
