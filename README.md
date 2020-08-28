@@ -10,7 +10,7 @@ Hey there 👋,
 
 I am Ting-Kai, I am a full-stack engineer working at Fruba Tea, focusing on front-end development using Javascript and React, back-end development using Java, Go, Node.js. I am from Taiwan, now living in New York :statue_of_liberty:. I love to communicate with people and make new friends. Passionate about exploring the world and learning new technological skills
 
-## Experience
+## Experience :factory:
  
 <p>
   <img width="220" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/fruba2.png?raw=true">
@@ -22,7 +22,7 @@ During my time as a full-stack engineer at Fruba Tea. My main responsibility was
 
  ---
  
- <p>
+<p>
   <img width="300" align='right' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/htc2.jpg?raw=true">
 </p>
 
@@ -30,19 +30,46 @@ During my time as a full-stack engineer at Fruba Tea. My main responsibility was
 
 I worked as a software engineer in the tools & productivity team of HTC. At that time, I focused on using core Java, SQLite, MySQL to build log parsing system to identify product failure root causes and issue owners in time, and further to reduce resource usage caused by multi-identification of issue owners across different teams
 
-## Projects
+## Projects :computer:
+
+<p>
+  <img width="200" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/around-short3.gif?raw=true">
+</p>
  
-<!--
-**tingkaiwu/tingkaiwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Photo Social Circle
 
-Here are some ideas to get you started:
+Built a geo & photo based social media site by React, Golang and token-based server-side user authentication (JWT)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ---
+ 
+<p>
+  <img width="180" align='right' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/recommender.gif?raw=true">
+</p>
+
+### Recommender System
+
+Created an interactive Content-based job recommendation web application for job seekers to search and apply openings
+
+ ---
+ 
+<p>
+  <img width="130" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/nba.gif?raw=true">
+</p>
+
+### NBA Shot Visualization
+
+Developed a dashboard to visualize NBA player’s shot data using React, D3.js and Styled-Component backed by API from stats.nba.com
+
+ ---
+ 
+<p>
+  <img width="90" align='right' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/new.gif?raw=true">
+</p>
+
+### Real Time Chat Web App
+
+Created a multi user/channel chat web application with React, Hooks, Material UI and Firebase real time database
+
+### Tinder-Like News App
+
+Designed a Tinder flavor Android news app based on Google Component Architectural MVVM Pattern
