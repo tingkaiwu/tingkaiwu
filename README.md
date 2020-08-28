@@ -76,7 +76,7 @@ Developed a dashboard to visualize NBA player’s shot data using React, D3.js a
 
 ## Skills :hammer:
 FRONTEND:<br/>
-JavaScript, React, Redux, Redux-Saga, Hooks, Material UI, Styled-Component, HTML, CSS/Sass<br/>
+JavaScript, React, Redux, Material UI, Styled-Component, HTML, CSS/Sass<br/>
 BACKEND:<br/>
 Java, Golang, Java Servlet, RESTful API, Node.js, Express, Elasticsearch, JWT, SQLite, MySQL<br/>
 CLOUD/MOBILE:<br/>
