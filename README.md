@@ -63,14 +63,17 @@ Created an interactive Content-based job recommendation web application for job 
 Developed a dashboard to visualize NBA player’s shot data using React, D3.js and Styled-Component backed by API from stats.nba.com
 
  ---
- 
+ <!--
 <p>
   <img width="85" align='right' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/new.gif?raw=true">
 </p>
+-->
 
 ### Tinder-Like News App
 
 Designed a Tinder flavor Android news app based on Google Component Architectural MVVM Pattern
+
+---
 
 ### Real Time Chat Web App
 
