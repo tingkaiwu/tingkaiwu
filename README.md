@@ -1,11 +1,12 @@
 [![My Website](https://github.com/tingkaiwu/tingkaiwu/blob/master/cover7.png)](https://tingkaiwu.com/)
+<!--
 <p align=center>
   <a href="https://www.linkedin.com/in/tingkai-wu/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/linkedin.png" /></a>
   <a href="https://tingkaiwu.com/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/web.png" /></a>
   <a href="https://www.instagram.com/tingkai.wu/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/instagram.jpg" /></a>&nbsp&nbsp
   <a href="mailto:tingkaiwuu@gmail.com"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/gmail5.png" /></a>
 </p>
-
+-->
 Hey there 👋,
 
 I am Ting-Kai, I am a full-stack engineer working at Fruba Tea, focusing on front-end development using Javascript and React, back-end development using Java, Go, Node.js. I am from Taiwan, now living in New York :statue_of_liberty:. I love to communicate with people and make new friends. Passionate about exploring the world and learning new technological skills
