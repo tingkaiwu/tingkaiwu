@@ -63,7 +63,7 @@ Created an interactive Content-based job recommendation web application for job 
 
 ### [Tinder-Like News App](https://github.com/tingkaiwu/android-news-app)
 
-Designed a Tinder flavor Android news app based on Google Component Architectural MVVM Pattern with save/search functions
+Designed a Tinder flavor Android news app based on Google Component Architectural MVVM Pattern with save & search functions
 
  ---
  
