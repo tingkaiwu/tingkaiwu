@@ -19,7 +19,9 @@ I am Ting-Kai, I am a full-stack engineer working at Fruba Tea, focusing on fron
 ### Full Stack Engineer - Fruba Tea (Aug 2019–Present)
 
 During my time as a full-stack engineer at Fruba Tea. My main responsibility was building web applications using JavaScript, React, Material UI for a meal group buying platform, which allows customers to order meals from several restaurants at the same time and delivers meals all together at fixed time and specific location
- 
+
+---
+
 <p>
   <img width="300" align='right' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/htc2.jpg?raw=true">
 </p>
@@ -27,6 +29,8 @@ During my time as a full-stack engineer at Fruba Tea. My main responsibility was
 ### Software Engineer - HTC (Nov 2014–Jul 2016)
 
 I worked as a software engineer in the tools & productivity team of HTC. At that time, I focused on using core Java, SQLite, MySQL to build log parsing system to identify product failure root causes and issue owners in time, and further to reduce resource usage caused by multi-identification of issue owners across different teams
+
+<br/>
 
 ## Projects :computer:
 
@@ -64,10 +68,12 @@ Developed a dashboard to visualize NBA player’s shot data using React, D3.js a
   <img width="85" align='right' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/new.gif?raw=true">
 </p>
 
+### Tinder-Like News App
+
+Designed a Tinder flavor Android news app based on Google Component Architectural MVVM Pattern
+
 ### Real Time Chat Web App
 
 Created a multi user/channel chat web application with React, Hooks, Material UI and Firebase real time database
 
-### Tinder-Like News App
 
-Designed a Tinder flavor Android news app based on Google Component Architectural MVVM Pattern
