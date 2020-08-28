@@ -35,7 +35,7 @@ I worked as a software engineer in the tools & productivity team of HTC. At that
 ## Projects :computer:
 
 <p>
-  <img width="180" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/around-short3.gif?raw=true">
+  <img width="420" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/around-short3.gif?raw=true">
 </p>
  
 ### Photo Social Circle
@@ -51,7 +51,7 @@ Created a multi user/channel chat web application with React, Hooks, Material UI
  ---
  
 <p>
-  <img width="160" align='right' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/recommender.gif?raw=true">
+  <img width="390" align='right' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/recommender.gif?raw=true">
 </p>
 
 ### Recommender System
@@ -67,7 +67,7 @@ Designed a Tinder flavor Android news app based on Google Component Architectura
  ---
  
 <p>
-  <img width="120" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/nba.gif?raw=true">
+  <img width="360" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/nba.gif?raw=true">
 </p>
 
 ### NBA Shot Visualization
