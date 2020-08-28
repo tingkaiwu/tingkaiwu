@@ -76,6 +76,6 @@ Developed a dashboard to visualize NBA player’s shot data using React, D3.js a
 
 ---
 
-FRONTEND: JavaScript, React, Material UI, Styled-Component, HTML, CSS/Sass
+FRONTEND: JavaScript, React, Material UI, Styled-Component, HTML, CSS/Sass <br/>
 BACKEND: Java, Golang, REST API, Node.js, Express, Elasticsearch, SQLite, MySQL
 CLOUD/MOBILE: Android, Firebase, AWS RDS, AWS EC2, GCE, Heroku, GitHub
