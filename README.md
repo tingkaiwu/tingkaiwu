@@ -43,7 +43,7 @@ Built a geo & photo based social media site by React, Golang and token-based ser
  ---
  
 <p>
-  <img width="180" align='right' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/recommender.gif?raw=true">
+  <img width="160" align='right' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/recommender.gif?raw=true">
 </p>
 
 ### Recommender System
@@ -53,7 +53,7 @@ Created an interactive Content-based job recommendation web application for job 
  ---
  
 <p>
-  <img width="130" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/nba.gif?raw=true">
+  <img width="110" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/nba.gif?raw=true">
 </p>
 
 ### NBA Shot Visualization
@@ -63,7 +63,7 @@ Developed a dashboard to visualize NBA player’s shot data using React, D3.js a
  ---
  
 <p>
-  <img width="90" align='right' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/new.gif?raw=true">
+  <img width="70" align='right' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/new.gif?raw=true">
 </p>
 
 ### Real Time Chat Web App
