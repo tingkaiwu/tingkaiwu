@@ -33,7 +33,7 @@ I worked as a software engineer in the tools & productivity team of HTC. At that
 ## Projects :computer:
 
 <p>
-  <img width="200" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/around-short3.gif?raw=true">
+  <img width="180" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/around-short3.gif?raw=true">
 </p>
  
 ### Photo Social Circle
