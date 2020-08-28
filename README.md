@@ -42,6 +42,12 @@ I worked as a software engineer in the tools & productivity team of HTC. At that
 
 Built a geo & photo based social media site by React, Golang and token-based server-side user authentication (JWT)
 
+---
+
+### Real Time Chat Web App
+
+Created a multi user/channel chat web application with React, Hooks, Material UI and Firebase real time database
+
  ---
  
 <p>
@@ -53,6 +59,12 @@ Built a geo & photo based social media site by React, Golang and token-based ser
 Created an interactive Content-based job recommendation web application for job seekers to search and apply openings
 
  ---
+
+### Tinder-Like News App
+
+Designed a Tinder flavor Android news app based on Google Component Architectural MVVM Pattern
+
+ ---
  
 <p>
   <img width="120" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/nba.gif?raw=true">
@@ -61,22 +73,3 @@ Created an interactive Content-based job recommendation web application for job 
 ### NBA Shot Visualization
 
 Developed a dashboard to visualize NBA player’s shot data using React, D3.js and Styled-Component backed by API from stats.nba.com
-
- ---
- <!--
-<p>
-  <img width="85" align='right' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/new.gif?raw=true">
-</p>
--->
-
-### Tinder-Like News App
-
-Designed a Tinder flavor Android news app based on Google Component Architectural MVVM Pattern
-
----
-
-### Real Time Chat Web App
-
-Created a multi user/channel chat web application with React, Hooks, Material UI and Firebase real time database
-
-
