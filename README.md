@@ -39,7 +39,7 @@ I worked as a software engineer in the tools & productivity team of HTC. At that
   <img width="410" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/around-short3.gif?raw=true">
 </p>
  
-### [Photo Social Circle](https://github.com/tingkaiwu/around-frontend)
+### [Instagram+ with Face Detection](https://github.com/tingkaiwu/around-frontend)
 
 Built a geo & photo based social media site by React, Golang and token-based server-side user authentication (JWT)
 
@@ -55,7 +55,7 @@ Created a multi user/channel chat web application with React, Hooks, Material UI
   <img width="380" align='right' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/recommender.gif?raw=true">
 </p>
 
-### [Recommender System](https://github.com/tingkaiwu/recommender-system)
+### [JRecommender System](https://github.com/tingkaiwu/recommender-system)
 
 Created an interactive Content-based job recommendation web application for job seekers to search and apply openings
 
