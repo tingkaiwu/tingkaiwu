@@ -45,9 +45,9 @@ Built a geo & photo based social media site by React, Golang and token-based ser
 
 ---
 
-### [Real Time Chat Web App](https://github.com/tingkaiwu/chat)
+### [Real-Time Chat Web App](https://github.com/tingkaiwu/chat)
 
-Created a multi user/channel chat web application with React, Hooks, Material UI and Firebase real time database
+Created a multi-user chat web application with React, Hooks, Material UI and Firebase real-time database
 
  ---
  
