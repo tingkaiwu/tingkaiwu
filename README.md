@@ -55,7 +55,7 @@ Created a multi user/channel chat web application with React, Hooks, Material UI
   <img width="380" align='right' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/recommender.gif?raw=true">
 </p>
 
-### [JRecommender System](https://github.com/tingkaiwu/recommender-system)
+### [Job Recommender System](https://github.com/tingkaiwu/recommender-system)
 
 Created an interactive Content-based job recommendation web application for job seekers to search and apply openings
 
