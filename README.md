@@ -17,7 +17,7 @@ I am Ting-Kai, I am a full-stack engineer working at Fruba Tea, focusing on fron
   <img width="220" align='left' src="https://github.com/tingkaiwu/tingkaiwu/blob/master/fruba2.png?raw=true">
 </p>
  
-### Software Engineer - Fruba Tea (Aug 2019–Present)
+### Full Stack Engineer - Fruba Tea (Aug 2019–Present)
 
 During my time as a full-stack engineer at Fruba Tea. My main responsibility was building web applications using JavaScript, React, Material UI for a meal group buying platform, which allows customers to order meals from several restaurants at the same time and delivers meals all together at fixed time and specific location
 
