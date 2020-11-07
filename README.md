@@ -1,4 +1,4 @@
-[![My Website](https://github.com/tingkaiwu/tingkaiwu/blob/master/cover6.png)](https://tingkaiwu.com/)
+[![My Website](https://github.com/tingkaiwu/tingkaiwu/blob/master/cover8.jpg)](https://tingkaiwu.com/)
 <!--
 <p align=center>
   <a href="https://www.linkedin.com/in/tingkai-wu/"><img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/linkedin.png" /></a>
